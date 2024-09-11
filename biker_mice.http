@@ -1,0 +1,6 @@
+@biker_mice_HostAddress = http://localhost:5152
+
+GET {{biker_mice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
